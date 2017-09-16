@@ -15,7 +15,7 @@ rbenv global 2.4.1
 gem update
 gem install bundler
 
-git clone https://github.com/d-akihiro/rails_example.git ~/work/rails_example
+git clone https://github.com/d-akihiro/rails_example.git ~/rails_example
 
-cd ~/work/rails_example
+cd ~/rails_example
 bundle install
