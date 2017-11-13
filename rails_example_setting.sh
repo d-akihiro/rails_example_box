@@ -19,3 +19,4 @@ git clone https://github.com/d-akihiro/rails_example.git ~/work/rails_example_sa
 
 cd ~/work/rails_example_sample
 bundle install
+rails db:migrate
