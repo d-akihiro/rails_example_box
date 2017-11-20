@@ -1,6 +1,6 @@
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install -y git build-essential libssl-dev libreadline-dev libsqlite3-dev nodejs tmux
+sudo apt-get install -y git build-essential libssl-dev libreadline-dev libsqlite3-dev sqlite3 nodejs tmux
 
 git clone https://github.com/rbenv/rbenv.git ~/.rbenv
 git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
